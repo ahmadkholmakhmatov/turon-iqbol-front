@@ -22,7 +22,7 @@ const stats = [
 const StatsSection = () => {
   return (
     <div className="relative rounded-xl p-10 md:p-16 overflow-hidden">
-      <div className="absolute inset-0 bg-[url('/public/images/aImage.png')] bg-cover bg-center"></div>
+      <div className="absolute inset-0 bg-[url('/images/aImage.png')] bg-cover bg-center"></div>
       <div className="absolute inset-0 bg-black bg-opacity-50"></div>
 
       <div className="relative grid grid-cols-1 md:grid-cols-3 gap-6">
